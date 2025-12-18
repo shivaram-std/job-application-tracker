@@ -19,4 +19,3 @@ export const fetchJobs = async (): Promise<JobApplication[]> => {
     appliedDate: new Date().toISOString().split('T')[0],
   }));
 };
-
