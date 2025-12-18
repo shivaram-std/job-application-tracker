@@ -1,4 +1,5 @@
-import { JobApplication } from '../types/job';
+import type { JobApplication } from "../types/jobTypes";
+
 
 interface JobCardProps {
   job: JobApplication;
