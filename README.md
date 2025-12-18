@@ -1,4 +1,4 @@
-md
+
 <!-- Project README updated -->
 # Job Application Tracker
 
