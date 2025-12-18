@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { fetchJobs } from '../services/api';
-import { JobApplication, JobStatus } from '../types/job';
+import type { JobApplication, JobStatus } from '../types/jobTypes';
 import JobCard from '../components/JobCard';
 import FilterBar from '../components/FilterBar';
 

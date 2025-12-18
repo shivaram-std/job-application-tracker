@@ -1,4 +1,5 @@
-import { JobStatus } from '../types/job';
+import type { JobStatus } from '../types/jobTypes';
+
 
 interface FilterBarProps {
   selectedStatus: JobStatus | 'All';

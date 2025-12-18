@@ -1,4 +1,5 @@
-import { JobApplication, JobStatus } from '../types/job';
+import type { JobApplication, JobStatus } from '../types/jobTypes';
+
 
 const statuses: JobStatus[] = ['Applied', 'Interview', 'Offer', 'Rejected'];
 

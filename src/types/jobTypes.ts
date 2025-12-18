@@ -7,3 +7,5 @@ export interface JobApplication {
   status: JobStatus;
   appliedDate: string;
 }
+
+
